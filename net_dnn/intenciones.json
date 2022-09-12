@@ -1,0 +1,99 @@
+{"intents": [
+        {"tag": "arqueología",
+        "patterns": ["aire libre", "viajar", "naturaleza", "monumentos", "patrimonio histórico"]
+        },
+        {"tag": "bellas_artes",
+        "patterns": ["plástica", "imaginación", "creatividad", "sensibilidad estética", "arte", "crear", "dibujar", "escultura", "pintura"]
+        },
+        {"tag": "estudios_arabes_franceses_ingleses",
+        "patterns": ["lengua árabe", "cultura árabe", "cultura musulmana", "árabe-islámico", "integración social de inmigrantes", "lengua francesa", "cultura francesa", "cultura inglesa", "literatura francesa", "literatura inglesa", "francés", "inglés", "árabe"]
+        },
+        {"tag": "filologia_clasica",
+        "patterns": ["lengua latina", "lengua griega", "griego", "latín", "civilización clásica", "mitología romana", "mitología griega"]
+        },
+        {"tag": "filologia_hispanica",
+         "patterns": ["lengua española", "lengua", "lectura de autores españoles", "literatura española", "poesía española"]
+        },
+        {"tag": "filosofia",
+         "patterns": ["pensamiento crítico", "filosofía", "ética y política", "defender mis ideas", "argumentar mis ideas", "detectar falsedades", "conocer lo falso y lo verdadero", "cuestionar lo que dicen los demás"]
+        },
+        {"tag": "historia_arte",
+         "patterns": ["historia", "geografía", "espíritu crítico", "arte", "análisis artísitico", "pinturas", "museos", "historia del arte", "sensibilidad estética", "memoria"]
+        },
+        {"tag": "historia_musica",
+         "patterns": ["música", "musical", "tocar un instrumento", "piano", "guitarra", "cantar", "bailar", "historia de la música", "sensibilidad musical", "partituras", "patrimonio musical", "conciertos", "profesor de música"]
+        },
+        {"tag": "traduccion",
+         "patterns": ["idiomas", "lenguas", "traducción", "nuevas tecnologías para la comunicación", "mediación intercultural", "interculturalidad", "analizar e interpretar textos en distintas lenguas"]
+        },
+        {"tag": "biologia_bioquimica_biotecnologia_alimentos",
+         "patterns": ["alimentación", "dieta", "perfumes", "cosmética", "vacunas", "biología", "genética", "bacterias", "plantas", "vida animal", "vida humana", "laboratorio", "células", "investigación"]
+        },
+        {"tag": "ciencias_ambientales",
+         "patterns": ["cambio climático", "geología",  "botánica", "zoología", "meteorología", "clima", "climatología", "flora y fauna", "conservación del medio ambiente", "energías renovables"]
+        },
+        {"tag": "estadística",
+         "patterns": ["probabilidad", "estadística", "encuestas", "informática", "datos", "análisis de datos", "minería de datos"]
+        },
+        {"tag": "fisica_matematicas_quimica",
+         "patterns": ["números", "álgebra", "matemáticas", "física", "química", "química orgánica", "astrofísica", "geofísica", "física cuántica", "radiactividad"]
+        },
+        {"tag": "geologia_geografía",
+         "patterns": ["geografía", "territorio", "geología", "minerales", "cristales", "piedras", "rocas", "volcanes", "terremotos"]
+        },
+        {"tag": "óptica",
+         "patterns": ["óptica", "ojos", "matemáticas", "anatomía", "física", "lentes", "farmacología", "visual"]
+        },
+        {"tag": "enfermeria_farmacia_medicina_nutricion_odontologia",
+         "patterns": ["medicina bucal", "anatomía humana", "cuidar", "salud", "enfermería", "nutrición", "dietética", "medicamentos", "fármacos", "ayudar", "ayuda", "salud mental", "enfermedades", "vacunas", "inmunología", "medicina"]
+        },
+        {"tag": "fisioterapia",
+         "patterns": ["anatomía", "deporte", "física", "biomecánica", "fisiología", "psicología", "masajes", "músculos", "nutrición", "salud", "fisioterapia", "fisio", "cuidar", "gimnasio"]
+        },
+        {"tag": "logopedia",
+         "patterns": ["lenguaje", "auditivo", "logopedia", "habla", "transtornos aprendizaje", "diagnóstico del habla", "fluidez oral", "hablar"]
+        },
+        {"tag": "psicologia",
+         "patterns": ["psicologia", "mental", "cerebro", "comportamiento", "empatía", "empático", "atención", "social", "biología", "mente humana"]
+        },
+        {"tag": "ade_economia_finanzas_marketing_rrhh",
+         "patterns": ["economía", "dinero", "matemáticas", "empresas", "mercado", "comercio", "marketing", "publicidad"]
+        },
+        {"tag": "antropología_sociologia",
+         "patterns": ["ser humano", "diversidad", "política", "religión", "género", "antropología", "problemas sociales"]
+        },
+        {"tag": "inef",
+         "patterns": ["deporte", "fútbol", "baloncesto", "tenis", "balonmano", "voleibol", "natación", "atletismo", "gimnasia rítmica", "gimnasio", "gym"]
+        },
+        {"tag": "politicas",
+         "patterns": ["liderazgo", "organización", "empático", "problemas sociales", "política", "hablar", "comunicativo", "internacionales"]
+        },
+        {"tag": "audiovisual",
+         "patterns": ["radio", "televisión", "comunicación", "audiovisual", "cine", "películas", "grabación"]
+        },
+        {"tag": "derecho_criminologia",
+         "patterns": ["leyes", "delincuentes", "crímenes", "justicia", "verdad", "juicio"]
+        },
+        {"tag": "informacion_documentacion",
+         "patterns": ["biblioteca", "información", "web", "archivos", "documentos"]
+        },
+        {"tag": "trabajo_social",
+         "patterns": ["marginadas", "inmigrantes", "dependencia", "ayudar", "voluntad", "trabajo social", "recibir nada a cambio", "riesgo social"]
+        },
+        {"tag": "turismo",
+         "patterns": ["viajar", "idiomas", "finanzas", "patrimonio histórico", "publicidad", "marketing", "comunicación", "hoteles", "gastronomía", "cocina"]
+        },
+        {"tag": "magisterio",
+         "patterns": ["educación", "educar", "ayudar", "sensibilidad social", "colaboración", "observación pautada", "enseñar", "ciudadanía", "infancia"]
+        },
+        {"tag": "arquitectura_edificacion_civil",
+         "patterns": ["construcción", "edificios", "casas", "dibujar planos", "dibujo técnico", "matemáticas", "geometría", "física"]
+        },
+        {"tag": "informacion_documentacion",
+         "patterns": ["biblioteca", "información", "web", "archivos", "documentos"]
+        },
+        {"tag": "telecomunicaciones_informatica_electronica",
+         "patterns": ["informática", "ordenadores", "matemáticas y tecnología", "física", "matemáticas", "tecnología", "software", "hardware", "electrónica"]
+        }
+   ]
+}

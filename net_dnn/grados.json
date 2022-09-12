@@ -1,0 +1,127 @@
+{"grados": [
+        {"tag": "arqueología",
+        "nombre": ["Arqueología"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-arqueologia"]
+        },
+        {"tag": "bellas_artes",
+        "nombre": ["Bellas Artes"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-bellas-artes"]
+        },
+        {"tag": "estudios_arabes_franceses_ingleses",
+        "nombre": ["Estudios Árabes e Islámicos", "Estudios Franceses", "Estudios Ingleses"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-estudios-arabes-islamicos", "https://www.ugr.es/estudiantes/grados/grado-estudios-franceses", "https://www.ugr.es/estudiantes/grados/grado-estudios-ingleses"]
+        },
+        {"tag": "filologia_clasica",
+        "nombre": ["Filología Clásica"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-filologia-clasica"]
+        },
+        {"tag": "filologia_hispanica",
+        "nombre": ["Filología Hispánica", "Lenguas Modernas y sus Literaturas", "Literaturas Comparadas"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-filologia-hispanica", "https://www.ugr.es/estudiantes/grados/grado-lenguas-modernas-sus-literaturas", "https://www.ugr.es/estudiantes/grados/grado-literaturas-comparadas"]
+        },
+        {"tag": "filosofia",
+        "nombre": ["Filosofía"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-filosofia"]
+        },
+        {"tag": "historia_arte",
+        "nombre": ["Conservación y Restauración de Bienes Culturales", "Historia", "Historia del Arte"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-conservacion-restauracion-bienes-cultural", "https://www.ugr.es/estudiantes/grados/grado-historia", "https://www.ugr.es/estudiantes/grados/grado-historia-arte"]
+        },
+        {"tag": "historia_musica",
+        "nombre": ["Historia y Ciencias de la Música"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-historia-ciencias-musica"]
+        },
+        {"tag": "traduccion",
+        "nombre": ["Traducción e Interpretación"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-traduccion-interpretacion"]
+        },
+        {"tag": "biologia_bioquimica_biotecnologia_alimentos",
+        "nombre": ["Biología", "Bioquímica", "biotecnología", "Ciencia y Tecnología de los Alimentos"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-biologia", "https://www.ugr.es/estudiantes/grados/grado-bioquimica", "https://www.ugr.es/estudiantes/grados/grado-biotecnologia", "https://www.ugr.es/estudiantes/grados/grado-ciencia-tecnologia-los-alimentos"]
+        },
+        {"tag": "ciencias_ambientales",
+        "nombre": ["Ciencias Ambientales"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-ciencias-ambientales"]
+        },
+        {"tag": "estadística",
+        "nombre": ["Estadística"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-estadistica"]
+        },
+        {"tag": "fisica_matematicas_quimica",
+        "nombre": ["Física", "Matemáticas", "Química"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-fisica", "https://www.ugr.es/estudiantes/grados/grado-matematicas", "https://www.ugr.es/estudiantes/grados/grado-quimica"]
+        },
+        {"tag": "geologia_geografía",
+        "nombre": ["Geología", "Geografía y Gestión del Territorio"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-geologia", "https://www.ugr.es/estudiantes/grados/grado-geografia-gestion-territorio"]
+        },
+        {"tag": "óptica",
+        "nombre": ["Óptica y Optometría"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-optica-optometria"]
+        },
+        {"tag": "enfermeria_farmacia_medicina_nutricion_odontologia",
+        "nombre": ["Enfermería", "Farmacia", "Medicina", "Nutrición humana y dietética", "Odontología"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-enfermeria", "https://www.ugr.es/estudiantes/grados/grado-farmacia", "https://www.ugr.es/estudiantes/grados/grado-medicina", "https://www.ugr.es/estudiantes/grados/grado-nutricion-humana-dietetica", "https://www.ugr.es/estudiantes/grados/grado-odontologia"]
+        },
+        {"tag": "fisioterapia",
+        "nombre": ["Fisioterapia"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-fisioterapia"]
+        },
+        {"tag": "logopedia",
+        "nombre": ["Logopedia"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-logopedia"]
+        },
+        {"tag": "psicologia",
+        "nombre": ["Psicología"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-psicologia"]
+        },
+        {"tag": "ade_economia_finanzas_marketing_rrhh",
+        "nombre": ["Administración y Dirección de Empresas", "Economía", "Finanzas y Contabilidad", "Marketing e Investigación de Mercados", "Relaciones Laborales y Recursos Humanos"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-administracion-direccion-empresas", "https://www.ugr.es/estudiantes/grados/grado-economia", "https://www.ugr.es/estudiantes/grados/grado-finanzas-contabilidad", "https://www.ugr.es/estudiantes/grados/grado-marketing-investigacion-mercados", "https://www.ugr.es/estudiantes/grados/grado-relaciones-laborales-recursos-humanos"]
+        },
+        {"tag": "antropología_sociologia",
+        "nombre": ["Antropología Social y Cultural", "Sociología"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-antropologia-social-cultural", "https://www.ugr.es/estudiantes/grados/grado-sociologia"]
+        },
+        {"tag": "inef",
+        "nombre": ["Ciencias de la Actividad Física y del Deporte"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-ciencias-actividad-fisica-deporte"]
+        },
+        {"tag": "politicas",
+        "nombre": ["Ciencias Políticas y de la Administración"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-ciencias-politicas-administracion"]
+        },
+        {"tag": "audiovisual",
+        "nombre": ["Comunicación Audiovisual"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual"]
+        },
+        {"tag": "derecho_criminologia",
+        "nombre": ["Criminología", "Derecho"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-criminologia", "https://www.ugr.es/estudiantes/grados/grado-derecho"]
+        },
+        {"tag": "informacion_documentacion",
+        "nombre": ["Información y Documentación"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-informacion-documentacion"]
+        },
+        {"tag": "trabajo_social",
+        "nombre": ["Trabajo Social"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-trabajo-social"]
+        },
+        {"tag": "turismo",
+        "nombre": ["Turismo"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-turismo"]
+        },
+        {"tag": "magisterio",
+        "nombre": ["Educación Infantil", "Educación Primaria", "Educación Social", "Pedagogía"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-educacion-infantil", "https://www.ugr.es/estudiantes/grados/grado-educacion-primaria", "https://www.ugr.es/estudiantes/grados/grado-educacion-social", "https://www.ugr.es/estudiantes/grados/grado-pedagogia"]
+        },
+        {"tag": "arquitectura_edificacion_civil",
+        "nombre": ["Estudios de Arquitectura", "Edificación", "Ingeniería Civil"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-estudios-arquitectura", "https://www.ugr.es/estudiantes/grados/grado-edificacion", "https://www.ugr.es/estudiantes/grados/grado-ingenieria-civil"]
+        },
+        {"tag": "telecomunicaciones_informatica_electronica",
+        "nombre": ["Ingeniería de Tecnologías de Telecomunicación", "Ingeniería Electrónica Industrial", "Ingeniería Informática"],
+        "enlace": ["https://www.ugr.es/estudiantes/grados/grado-ingenieria-tecnologias-telecomunicacion", "https://www.ugr.es/estudiantes/grados/grado-ingenieria-electronica-industrial", "https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica"]
+        }
+   ]
+}
