@@ -24,11 +24,13 @@ MIT">
 
 ## Key Features
 
-* SFDSFD
+* Predict success in both the Sciences and the Humanities
 
-* DFSDS
+* Recommend university degrees
 
-* DSFSDF
+* Inform students about the variety of university offerings
+
+* Generate a PDF report in LaTeX with the results obtained
 
 ## How to use
 
@@ -36,10 +38,7 @@ MIT">
 
 You can run CloudiaBot from a Google Colab notebook. It is an easy way to deploy the chatbot.
 
-Click on ... and follow the steps.
-
-## Contact
-sadasdaddda
+Click on [CloudiaBot on Google Colab notebook](https://www.marca.com/) and follow the steps indicated in the notebook.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
