@@ -30,6 +30,7 @@ MIT">
 
 ### Google Colab
 
+<<<<<<< HEAD
 You can run CloudiaBot from a Google Colab notebook. It is an easy way to 
 deploy the chatbot.
 
@@ -37,6 +38,11 @@ deploy the chatbot.
 notebook](https://colab.research.google.com/drive/1xkPeFEhGWXebaObnJw19QZ44ePtNB0NE?usp=sharing) 
 and follow the steps indicated in the notebook to initialise the 
 conversation with CloudiaBot 🤖
+=======
+You can run CloudiaBot from a Google Colab notebook. It is an easy way to deploy the chatbot.
+
+⚡️ Click on [CloudiaBot on Google Colab notebook](https://colab.research.google.com/drive/1xkPeFEhGWXebaObnJw19QZ44ePtNB0NE?usp=sharing) and follow the steps indicated in the notebook to initialise the conversation with CloudiaBot 🤖
+>>>>>>> ce9c6f0feb1faeac54c5565f03945da6146b3deb
 
 ## License
 [MIT](https://github.com/salvaMsanchez/CloudiaBot/blob/master/LICENSE)
