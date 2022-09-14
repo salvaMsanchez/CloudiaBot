@@ -139,7 +139,7 @@ def latex(img_filename_mayor, grados_reales_menor, enlaces_reales_menor, grados_
   # Imagen de cabecera
   with first_page.create(Head("L")) as header_left:
     with header_left.create(MiniPage(width=NoEscape(r"0.49\textwidth"), pos='c')) as logo_wrapper:
-      logo_file = './Cloudia_Bot/images/imagotipo.png'
+      logo_file = './CloudiaBot/images/imagotipo.png'
       logo_wrapper.append(StandAloneGraphic(image_options="width=70px", filename=logo_file))
 
   # Añadir estilo del documento
@@ -868,10 +868,10 @@ def datos(message):
     lengua = np.array([[sexo, direccion, tamano_familia, edu_materno, edu_paterno, tiempo_estudio_lengua, apoyo_familia_lengua, academia_lengua, extraescolares, internet, primer_trimestre_lengua, segundo_trimestre_lengua]])
     
     # predicción matemáticas
-    model_matematicas = tf.keras.models.load_model('./Cloudia_Bot/model.school_prediction_mat')
+    model_matematicas = tf.keras.models.load_model('./CloudiaBot/model.school_prediction_mat')
     resultado_prediccion_matematicas = model_matematicas.predict(matematicas)[0][0] # acceder al float del numpy.array
     # predicción lengua
-    model_lengua = tf.keras.models.load_model('./Cloudia_Bot/model.school_prediction_len')
+    model_lengua = tf.keras.models.load_model('./CloudiaBot/model.school_prediction_len')
     resultado_prediccion_lengua = model_lengua.predict(lengua)[0][0] # acceder al float del numpy.array
     
 
@@ -910,7 +910,7 @@ def datos(message):
 
 # restaurar toda nuestra estructura de datos
 import pickle
-data = pickle.load(open("./Cloudia_Bot/net_dnn/training_data", "rb")) #rb --> lectura binaria
+data = pickle.load(open("./CloudiaBot/net_dnn/training_data", "rb")) #rb --> lectura binaria
 words = data["words"]
 etiquetas = data["classes"]
 train_x = data["train_x"]
@@ -918,7 +918,7 @@ train_y = data["train_y"]
 
 # importar nuestro archivo de intenciones
 import json
-with open("./Cloudia_Bot/net_dnn/intenciones.json") as json_data:
+with open("./CloudiaBot/net_dnn/intenciones.json") as json_data:
   intents = json.load(json_data)
 
 # restablecer los datos del gráfico
@@ -932,10 +932,10 @@ net = tflearn.fully_connected(net, len(train_y[0]), activation='softmax')
 net = tflearn.regression(net)
 
 # Definir el modelo y configurar el tensorboard
-model = tflearn.DNN(net, tensorboard_dir='./Cloudia_Bot/net_dnn/tflearn_logs')
+model = tflearn.DNN(net, tensorboard_dir='./CloudiaBot/net_dnn/tflearn_logs')
 
 # load our saved model
-model.load("./Cloudia_Bot/net_dnn/model.tflearn_prediction")
+model.load("./CloudiaBot/net_dnn/model.tflearn_prediction")
 
 #----------Desarrollo del bot en telegram----------
 
@@ -1103,7 +1103,7 @@ def final(message):
       menor_prob_porcentajes[nombre] = porcentaje
 
     # JSON GRADOS
-    with open("./Cloudia_Bot/net_dnn/grados.json") as grados_json:
+    with open("./CloudiaBot/net_dnn/grados.json") as grados_json:
       grados = json.load(grados_json)
     
     # EXTRACCIÓN DE NOMBRES DE GRADOS Y ENLACES A PARTIR DE LA INFORMACIÓN QUE TENEMOS
@@ -1356,7 +1356,7 @@ def final(message):
       menor_prob_porcentajes[nombre] = porcentaje
     
     # JSON GRADOS
-    with open("./Cloudia_Bot/net_dnn/grados.json") as grados_json:
+    with open("./CloudiaBot/net_dnn/grados.json") as grados_json:
       grados = json.load(grados_json)
     
     # EXTRACCIÓN DE NOMBRES DE GRADOS Y ENLACES A PARTIR DE LA INFORMACIÓN QUE TENEMOS
