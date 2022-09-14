@@ -13,12 +13,6 @@ MIT">
   </a>
 </p>
 
-<p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#license">License</a>
-</p>
-
 ![GIF](https://github.com/salvaMsanchez/CloudiaBot/blob/master/gif/cloudiabot.gif?raw=true)
 
 ## Key Features
@@ -37,7 +31,7 @@ MIT">
 
 You can run CloudiaBot from a Google Colab notebook. It is an easy way to deploy the chatbot.
 
-Click on [CloudiaBot on Google Colab notebook](https://www.marca.com/) and follow the steps indicated in the notebook.
+⚡️ Click on [CloudiaBot on Google Colab notebook](https://colab.research.google.com/drive/1xkPeFEhGWXebaObnJw19QZ44ePtNB0NE?usp=sharing) and follow the steps indicated in the notebook to initialise the conversation with CloudiaBot 🤖
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
