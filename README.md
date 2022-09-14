@@ -4,7 +4,8 @@ src="https://github.com/salvaMsanchez/CloudiaBot/blob/master/images/imagotipo_ba
 alt="CloudiaBot" width="400"></a>
 </h1>
 
-<h4 align="center">AI-enabled university degree prediction and recommendation chatbot</h4>
+<h4 align="center">AI-enabled university degree prediction and 
+recommendation chatbot</h4>
 
 <p align="center">
   <a href="https://img.shields.io/badge/license-MIT-blue">
@@ -13,33 +14,29 @@ MIT">
   </a>
 </p>
 
-<p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#contact">Contact</a> •
-  <a href="#license">License</a>
-</p>
-
 ![GIF](https://github.com/salvaMsanchez/CloudiaBot/blob/master/gif/cloudiabot.gif?raw=true)
 
 ## Key Features
 
-* SFDSFD
+* Predict success in both the Sciences and the Humanities
 
-* DFSDS
+* Recommend university degrees
 
-* DSFSDF
+* Inform students about the variety of university offerings
+
+* Generate a PDF report in LaTeX with the results obtained
 
 ## How to use
 
 ### Google Colab
 
-You can run CloudiaBot from a Google Colab notebook. It is an easy way to deploy the chatbot.
+You can run CloudiaBot from a Google Colab notebook. It is an easy way to 
+deploy the chatbot.
 
-Click on ... and follow the steps.
-
-## Contact
-sadasdaddda
+⚡️ Click on [CloudiaBot on Google Colab 
+notebook](https://colab.research.google.com/drive/1xkPeFEhGWXebaObnJw19QZ44ePtNB0NE?usp=sharing) 
+and follow the steps indicated in the notebook to initialise the 
+conversation with CloudiaBot 🤖
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/salvaMsanchez/CloudiaBot/blob/master/LICENSE)
