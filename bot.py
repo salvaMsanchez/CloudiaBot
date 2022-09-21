@@ -1507,11 +1507,11 @@ titulo_ciencias_sociales_juridicas = titulos[3].text
 titulo_ingenieria_arquitectura = titulos[4].text
 
 listas = soup.find_all("ul")
-artes_humanidades = listas[14] # Artes y Humnanidades
-ciencias = listas[15] # Ciencias
-ciencias_salud = listas[16] # Ciencias de la salud
-ciencias_sociales_juridicas = listas[17] # Ciencias sociales y jurídicas
-ingenieria_arquitectura = listas[18] # Ingeniería y arquitectura
+artes_humanidades = listas[12] # Artes y Humnanidades
+ciencias = listas[13] # Ciencias
+ciencias_salud = listas[14] # Ciencias de la salud
+ciencias_sociales_juridicas = listas[15] # Ciencias sociales y jurídicas
+ingenieria_arquitectura = listas[16] # Ingeniería y arquitectura
 
 dic_titulos = {}
 ramas = []
