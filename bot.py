@@ -1516,13 +1516,13 @@ ingenieria_arquitectura = listas[16] # Ingeniería y arquitectura
 dic_titulos = {}
 ramas = []
 
-for x in range(6):
+for x in range(5):
   titulo = titulos[x].text
   ramas.append(titulo)
   dic_titulos[titulo] = None
 
 n = 0
-for x in range(14, 20):
+for x in range(12, 17):
   lista_grados = listas[x]
   dic_titulos[ramas[n]] = lista_grados
   n = n + 1
