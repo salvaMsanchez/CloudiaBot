@@ -16,6 +16,10 @@ MIT">
 
 ![GIF](https://github.com/salvaMsanchez/CloudiaBot/blob/master/gif/cloudiabot.gif?raw=true)
 
+## Demo
+
+You can see a demo of the deployment and performance of the chatbot [here](https://drive.google.com/file/d/1dgmsnNa0uFWD--w3fdUrDla4sy0jcHkK/view)
+
 ## Key Features
 
 * Predict success in both the Sciences and the Humanities
@@ -33,6 +37,8 @@ MIT">
 You can run CloudiaBot from a Google Colab notebook. It is an easy way to deploy the chatbot.
 
 ⚡️ Click on [CloudiaBot on Google Colab notebook](https://colab.research.google.com/drive/1xkPeFEhGWXebaObnJw19QZ44ePtNB0NE?usp=sharing) and follow the steps indicated in the notebook to initialise the conversation with CloudiaBot 🤖
+
+🆘 The code has not been updated since September 2022, it may be outdated, especially the parts that use web scraping 🆘
 
 ## License
 [MIT](https://github.com/salvaMsanchez/CloudiaBot/blob/master/LICENSE)
