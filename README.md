@@ -22,7 +22,7 @@ You can see a demo of the deployment and performance of the chatbot [here](https
 
 ## Thesis
 
-[Link to the thesis published in the institutional repository of the Universidad Complutense de Madrid.](https://docta.ucm.es/entities/publication/cc2d8721-ec22-4da7-8274-e3df77c48575)
+📄 [Link](https://docta.ucm.es/entities/publication/cc2d8721-ec22-4da7-8274-e3df77c48575) to the thesis published in the institutional repository of the Universidad Complutense de Madrid.
 
 ## Key Features
 
