@@ -20,6 +20,10 @@ MIT">
 
 You can see a demo of the deployment and performance of the chatbot [here](https://drive.google.com/file/d/1dgmsnNa0uFWD--w3fdUrDla4sy0jcHkK/view)
 
+## Thesis
+
+[Link to the thesis published in the institutional repository of the Universidad Complutense de Madrid.](https://docta.ucm.es/entities/publication/cc2d8721-ec22-4da7-8274-e3df77c48575)
+
 ## Key Features
 
 * Predict success in both the Sciences and the Humanities
